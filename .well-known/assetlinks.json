@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.kandupuri_lab.twa",
+    "sha256_cert_fingerprints": ["D9:4A:64:A6:B1:B0:DC:7C:15:1B:16:C4:28:80:1D:D8:31:38:6B:8F:EA:38:59:2A:91:04:E2:8B:04:5A:D1:86"]
+  }
+}]
